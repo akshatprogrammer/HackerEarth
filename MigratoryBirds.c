@@ -1,45 +1,24 @@
-/*
-// Sample code to perform I/O:
-#include <stdio.h>
-
-int main(){
-	int num;
-	scanf("%d", &num);              			// Reading input from STDIN
-	printf("Input number is %d.\n", num);       // Writing output to STDOUT
+#include<stdio.h>
+int max_freq(int a[],int n)
+{
+	int max = a[0];
+	for(int i=0;i<n;i++)
+	{
+		if(a[i]>max)
+			max = a[i];
+	}
+	return max;
 }
-
-// Warning: Printing unwanted or ill-formatted data to output will cause the test cases to fail
-*/
-
-// Write your code here
-#include <stdio.h>
-int main(){
-	int num,i,count;
-	scanf("%d", &num);              			// Reading input from STDIN
-//	printf("Input number is %d.\n", num);       // Writing output to STDOUT
+int main()
+{
+	int num,i;
+	scanf("%d", &num);
 	int arr[num];
+	int count[6]={0,0,0,0,0,0};
 	for(i=0;i<num;i++)
 	{
 		scanf("%d",&arr[i]);
+		count[arr[i]]++;
 	}
-	int j;
-	for(i=0;i<num;i++)
-	{	count = 1;
-		for(j=i+1;j<num;j++)
-		{
-			if(arr[i] == arr[j])
-				count++;
-			
-			if(count >= num/2)
-			{
-				printf("%d",arr[i]);
-				break;
-			}
-		}
-	}
-	//printf("%d",arr[i]);
-	
-
+	printf("%d",max_freq(arr,6));
 }
-
-
