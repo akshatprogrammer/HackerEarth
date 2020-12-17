@@ -6,5 +6,5 @@ Here are the solutions of HackerEarth questions
 [Sharing the Birthday Chocolates](https://github.com/akshatprogrammer/HackerEarth/blob/main/SharingBirthdayChocolate.cpp)(Easy with C++)</br>
 [Odd One Out](https://github.com/akshatprogrammer/HackerEarth/blob/main/OddOneOut.cpp)(Easy)</br>
 [Peak of an Array](https://github.com/akshatprogrammer/HackerEarth/blob/main/PerfectPeakOfArray.cpp)(Medium)</br>
-[Duplicacy](https://github.com/akshatprogrammer/HackerEarth/blob/main/Duplicacy.cpp)</br>
-[Rotate Matrix by 90 degree AntiClockwise](https://github.com/akshatprogrammer/HackerEarth/blob/main/Rotate90degreeAnti.cpp)</br>
+[Duplicacy](https://github.com/akshatprogrammer/HackerEarth/blob/main/Duplicacy.cpp)(Medium + Having RTE in it)</br>
+[Rotate Matrix by 90 degree AntiClockwise](https://github.com/akshatprogrammer/HackerEarth/blob/main/Rotate90degreeAnti.cpp)(Medium)</br>
