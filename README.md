@@ -9,4 +9,5 @@ Here are the solutions of HackerEarth questions
 [Duplicacy](https://github.com/akshatprogrammer/HackerEarth/blob/main/Duplicacy.cpp)(Medium + Having RTE in it)</br>
 [Rotate Matrix by 90 degree AntiClockwise](https://github.com/akshatprogrammer/HackerEarth/blob/main/Rotate90degreeAnti.cpp)(Medium)</br>
 [Transpose](https://github.com/akshatprogrammer/HackerEarth/blob/main/Transpose.cpp)(Easy)</br>
+[Transpose1 Better Version](https://github.com/akshatprogrammer/HackerEarth/blob/main/Transpose1.cpp)(Easy)</br>
 [Spiral Matrix Inside Out](https://github.com/akshatprogrammer/HackerEarth/blob/main/AntiSpiralForm.cpp)(Medium)</br>
