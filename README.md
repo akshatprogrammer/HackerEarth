@@ -12,3 +12,4 @@ Here are the solutions of HackerEarth questions
 [Transpose1 Better Version](https://github.com/akshatprogrammer/HackerEarth/blob/main/Transpose1.cpp)(Easy)</br>
 [Spiral Matrix Inside Out](https://github.com/akshatprogrammer/HackerEarth/blob/main/AntiSpiralForm.cpp)(Medium)</br>
 [Element Search](https://github.com/akshatprogrammer/HackerEarth/blob/main/ElementSearch.c)(Easy)</br>
+[Total Score](https://github.com/akshatprogrammer/HackerEarth/blob/main/TotalScore.cpp)(Easy)</br>
