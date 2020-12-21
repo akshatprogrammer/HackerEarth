@@ -13,9 +13,9 @@ int element(int b[],int n,int x)
 		return 1;
 		else
 		r--;
-		if(l==r && b[l] != x)
-		return -1;
+		
 	}
+	return -1;
 }
 int main()
 {
