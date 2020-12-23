@@ -13,3 +13,5 @@ Here are the solutions of HackerEarth questions
 [Spiral Matrix Inside Out](https://github.com/akshatprogrammer/HackerEarth/blob/main/AntiSpiralForm.cpp)(Medium)</br>
 [Element Search](https://github.com/akshatprogrammer/HackerEarth/blob/main/ElementSearch.c)(Easy)</br>
 [Total Score](https://github.com/akshatprogrammer/HackerEarth/blob/main/TotalScore.cpp)(Easy)</br>
+[Sorting](https://github.com/akshatprogrammer/HackerEarth/blob/main/sorting.cpp)(Medium)</br>
+[Swapping](https://github.com/akshatprogrammer/HackerEarth/blob/main/swapping.cpp)(Medium)</br>
