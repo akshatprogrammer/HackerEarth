@@ -15,3 +15,5 @@ Here are the solutions of HackerEarth questions
 [Total Score](https://github.com/akshatprogrammer/HackerEarth/blob/main/TotalScore.cpp)(Easy)</br>
 [Sorting](https://github.com/akshatprogrammer/HackerEarth/blob/main/sorting.cpp)(Medium)</br>
 [Swapping](https://github.com/akshatprogrammer/HackerEarth/blob/main/swapping.cpp)(Medium)</br>
+[Frequency Count](https://github.com/akshatprogrammer/HackerEarth/blob/main/FrequencyCount.cpp)(Easy)</br>
+[Reshuffling Array](https://github.com/akshatprogrammer/HackerEarth/blob/main/ReshufflingArray.cpp)(Caution : TLE)</br>
